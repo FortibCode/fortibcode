@@ -1,4 +1,4 @@
-import { t as api } from "./api-BqX1M4Go.js";
+import { t as api } from "./api-Bq79bI1z.js";
 import { Link } from "@tanstack/react-router";
 import { Fragment, jsx, jsxs } from "react/jsx-runtime";
 import { useQuery } from "@tanstack/react-query";

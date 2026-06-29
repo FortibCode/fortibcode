@@ -10,81 +10,81 @@ var tsrStartManifest = () => ({ routes: {
 			"/contact",
 			"/projects"
 		],
-		preloads: ["/assets/index-Bs9U49Z_.js", "/assets/api-DsvAsse1.js"],
+		preloads: ["/assets/index-BSO9jwbp.js", "/assets/api-V7op2XYl.js"],
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-Bs9U49Z_.js"
+			src: "/assets/index-BSO9jwbp.js"
 		} }]
 	},
 	"/": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/index.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/routes-Dpt3ixwn.js",
-			"/assets/code-xml-CGxjBgs2.js",
-			"/assets/external-link-6EeKehU4.js",
-			"/assets/proxy-C4XcRQIg.js"
+			"/assets/routes-C6zloOCa.js",
+			"/assets/code-xml-DdKMbBum.js",
+			"/assets/external-link-5-sEmDll.js",
+			"/assets/proxy-CrqjJaNE.js"
 		]
 	},
 	"/about": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/about.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/about-DO3Mmzu5.js",
-			"/assets/code-xml-CGxjBgs2.js",
-			"/assets/user-CDg07dom.js",
-			"/assets/proxy-C4XcRQIg.js"
+			"/assets/about-BlrNHrt0.js",
+			"/assets/code-xml-DdKMbBum.js",
+			"/assets/user-VH9Jr5Lu.js",
+			"/assets/proxy-CrqjJaNE.js"
 		]
 	},
 	"/admin": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/admin.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/admin-CMqfRbsh.js",
-			"/assets/textarea-fcr6MyOM.js",
-			"/assets/code-xml-CGxjBgs2.js",
-			"/assets/award-DIExqeFR.js",
-			"/assets/user-CDg07dom.js",
-			"/assets/proxy-C4XcRQIg.js",
-			"/assets/badge-iQT4cAfO.js"
+			"/assets/admin-BozV1hnk.js",
+			"/assets/textarea-DPxUHGXH.js",
+			"/assets/code-xml-DdKMbBum.js",
+			"/assets/award-w-ngSiMP.js",
+			"/assets/user-VH9Jr5Lu.js",
+			"/assets/proxy-CrqjJaNE.js",
+			"/assets/badge-DJlfJzg-.js"
 		]
 	},
 	"/certifications": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/certifications.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/certifications-DOtbcZKP.js",
-			"/assets/award-DIExqeFR.js",
-			"/assets/external-link-6EeKehU4.js",
-			"/assets/search-BXelGNgA.js",
-			"/assets/proxy-C4XcRQIg.js"
+			"/assets/certifications-MB3npMDh.js",
+			"/assets/award-w-ngSiMP.js",
+			"/assets/external-link-5-sEmDll.js",
+			"/assets/search-JzW7dKAA.js",
+			"/assets/proxy-CrqjJaNE.js"
 		]
 	},
 	"/contact": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/contact.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/contact-B4BNpkr3.js",
-			"/assets/textarea-fcr6MyOM.js",
-			"/assets/proxy-C4XcRQIg.js"
+			"/assets/contact-DhOU-Hxq.js",
+			"/assets/textarea-DPxUHGXH.js",
+			"/assets/proxy-CrqjJaNE.js"
 		]
 	},
 	"/projects": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/projects.tsx",
 		children: ["/projects/$slug"],
 		preloads: [
-			"/assets/projects-DNhihS6c.js",
-			"/assets/external-link-6EeKehU4.js",
-			"/assets/search-BXelGNgA.js",
-			"/assets/proxy-C4XcRQIg.js",
-			"/assets/badge-iQT4cAfO.js"
+			"/assets/projects-Bi8P9Noq.js",
+			"/assets/external-link-5-sEmDll.js",
+			"/assets/search-JzW7dKAA.js",
+			"/assets/proxy-CrqjJaNE.js",
+			"/assets/badge-DJlfJzg-.js"
 		]
 	},
 	"/projects/$slug": {
 		filePath: "/home/okombifortune/Documents/Portofolio/frontend/src/routes/projects.$slug.tsx",
 		children: void 0,
-		preloads: ["/assets/projects._slug-CnWylwMq.js"]
+		preloads: ["/assets/projects._slug-gFjiOq7_.js"]
 	}
 } });
 //#endregion

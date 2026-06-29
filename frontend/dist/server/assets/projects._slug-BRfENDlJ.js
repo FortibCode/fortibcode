@@ -1,5 +1,5 @@
-import { t as api } from "./api-BqX1M4Go.js";
-import { t as Route } from "./projects._slug-DrwR1xmZ.js";
+import { t as api } from "./api-Bq79bI1z.js";
+import { t as Route } from "./projects._slug-CF_rS3Ro.js";
 import { Link } from "@tanstack/react-router";
 import { jsx, jsxs } from "react/jsx-runtime";
 import { useQuery } from "@tanstack/react-query";

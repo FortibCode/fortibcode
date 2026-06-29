@@ -1,7 +1,7 @@
 import axios from "axios";
 //#region src/lib/api.ts
 var api = axios.create({
-	baseURL: "https://fortibcode-production.up.railway.app/api",
+	baseURL: "http://localhost:8000/api",
 	headers: {
 		"Content-Type": "application/json",
 		Accept: "application/json"

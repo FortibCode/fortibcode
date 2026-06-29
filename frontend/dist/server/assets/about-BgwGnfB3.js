@@ -1,4 +1,4 @@
-import { t as api } from "./api-BqX1M4Go.js";
+import { t as api } from "./api-Bq79bI1z.js";
 import { jsx, jsxs } from "react/jsx-runtime";
 import { useQuery } from "@tanstack/react-query";
 import { Code2, Rocket, Target, User } from "lucide-react";

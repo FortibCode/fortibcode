@@ -1,5 +1,5 @@
-import { t as api } from "./api-BqX1M4Go.js";
-import { t as Route$7 } from "./projects._slug-DrwR1xmZ.js";
+import { t as api } from "./api-Bq79bI1z.js";
+import { t as Route$7 } from "./projects._slug-CF_rS3Ro.js";
 import { useEffect, useState } from "react";
 import { HeadContent, Link, Scripts, createFileRoute, createRootRoute, createRouter, lazyRouteComponent } from "@tanstack/react-router";
 import { jsx, jsxs } from "react/jsx-runtime";
@@ -373,7 +373,7 @@ function RootDocument({ children }) {
 }
 //#endregion
 //#region src/routes/projects.tsx
-var $$splitComponentImporter$5 = () => import("./projects-D5Lc8a1f.js");
+var $$splitComponentImporter$5 = () => import("./projects-DgiuT12F.js");
 var Route$5 = createFileRoute("/projects")({
 	component: lazyRouteComponent($$splitComponentImporter$5, "component"),
 	head: () => ({ meta: [{ title: "Mes Projets | Mon Portfolio" }, {
@@ -383,7 +383,7 @@ var Route$5 = createFileRoute("/projects")({
 });
 //#endregion
 //#region src/routes/contact.tsx
-var $$splitComponentImporter$4 = () => import("./contact-CzxEH7Cl.js");
+var $$splitComponentImporter$4 = () => import("./contact-BBKN8vpv.js");
 var Route$4 = createFileRoute("/contact")({
 	component: lazyRouteComponent($$splitComponentImporter$4, "component"),
 	head: () => ({ meta: [{ title: "Contact | FortibCode — Fortune Okombi" }, {
@@ -393,7 +393,7 @@ var Route$4 = createFileRoute("/contact")({
 });
 //#endregion
 //#region src/routes/certifications.tsx
-var $$splitComponentImporter$3 = () => import("./certifications-DwYxIDiT.js");
+var $$splitComponentImporter$3 = () => import("./certifications-9CKc8CUe.js");
 var Route$3 = createFileRoute("/certifications")({
 	component: lazyRouteComponent($$splitComponentImporter$3, "component"),
 	head: () => ({ meta: [{ title: "Certifications | Mon Portfolio" }, {
@@ -403,7 +403,7 @@ var Route$3 = createFileRoute("/certifications")({
 });
 //#endregion
 //#region src/routes/admin.tsx
-var $$splitComponentImporter$2 = () => import("./admin-37fH91XH.js");
+var $$splitComponentImporter$2 = () => import("./admin-DEMdQFiK.js");
 var Route$2 = createFileRoute("/admin")({
 	component: lazyRouteComponent($$splitComponentImporter$2, "component"),
 	head: () => ({ meta: [{ title: "Administration | Mon Portfolio" }, {
@@ -413,7 +413,7 @@ var Route$2 = createFileRoute("/admin")({
 });
 //#endregion
 //#region src/routes/about.tsx
-var $$splitComponentImporter$1 = () => import("./about-CD4wKqDs.js");
+var $$splitComponentImporter$1 = () => import("./about-BgwGnfB3.js");
 var Route$1 = createFileRoute("/about")({
 	component: lazyRouteComponent($$splitComponentImporter$1, "component"),
 	head: () => ({ meta: [{ title: "À propos | FortibCode — Fortune Okombi" }, {
@@ -423,7 +423,7 @@ var Route$1 = createFileRoute("/about")({
 });
 //#endregion
 //#region src/routes/index.tsx
-var $$splitComponentImporter = () => import("./routes-CCjmYP7g.js");
+var $$splitComponentImporter = () => import("./routes-7wZ9labe.js");
 var Route = createFileRoute("/")({
 	component: lazyRouteComponent($$splitComponentImporter, "component"),
 	head: () => ({ meta: [{ title: "FortibCode — Développeur Full-Stack | Fortune Okombi" }, {
